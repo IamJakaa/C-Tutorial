@@ -2,6 +2,7 @@
 #include <stdbool.h>
 
 int main(){
+    
     int a = 5, b = 10;
 
     // Comparison Operators

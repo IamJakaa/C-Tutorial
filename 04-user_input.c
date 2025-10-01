@@ -5,14 +5,16 @@
    //Example 1: Reading and printing an integer
 
     int age;
+    double number;
+    char alphabet;
+
 
     printf("Enter your age: ");
     scanf("%d", &age);
     printf("%d\n", age);
 
    //Example 2: Reading and printing a double and Character
-   double number;
-   char alphabet;
+   
 
    printf("Enter a double value: ");   
    scanf("%lf", &number);
